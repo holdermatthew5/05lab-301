@@ -7,6 +7,7 @@ For today's lab assignment, you will work independently to create a personal por
 ## Resources
 
 - [HTML5 UP templates](https://html5up.net/)
+- [My portfolio](https://whispering-meadow-63377.herokuapp.com/)
 
 ## Repository Set-up
 
@@ -22,11 +23,11 @@ For today's lab assignment, you will work independently to create a personal por
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
 ```
-Number and name of feature: ________________________________
+Number and name of feature: Feature 2 - Modify the content
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 3hr
 
-Start time: _____
+Start time: 02:57 pm 10OCT2020
 
 Finish time: _____
 
