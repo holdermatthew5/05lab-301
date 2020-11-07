@@ -27,11 +27,21 @@ Number and name of feature: Feature 2 - Modify the content
 
 Estimate of time needed to complete: 3hr
 
-Start time: 02:57 pm 10OCT2020
+Start time: 02:57pm 10OCT2020
 
-Finish time: _____
+Finish time: 5:53pm 11NOV2020
 
-Actual time needed to complete: _____
+Actual time needed to complete: 5hrs
+
+Number and name of feature: Feature 3 - Refactor the CSS
+
+Estimate of time needed to complete: 3hr
+
+Start time: 02:57pm 10OCT2020
+
+Finish time: 5:53pm 11NOV2020
+
+Actual time needed to complete: 5hrs
 ```
 
 Add this information to your README.
