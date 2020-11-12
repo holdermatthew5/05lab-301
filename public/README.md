@@ -23,6 +23,18 @@ For today's lab assignment, you will work independently to create a personal por
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
 ```
+Number and name of feature: Feature 1 - Deployment
+
+Estimate of time needed to complet: 30min
+
+Start time: 02:26pm
+
+Finish time: 02:56pm
+
+Actual time needed to complete: 30min
+
+=========================================================
+
 Number and name of feature: Feature 2 - Modify the content
 
 Estimate of time needed to complete: 3hr
@@ -32,6 +44,8 @@ Start time: 02:57pm 10OCT2020
 Finish time: 5:53pm 11NOV2020
 
 Actual time needed to complete: 5hrs
+
+=========================================================
 
 Number and name of feature: Feature 3 - Refactor the CSS
 
